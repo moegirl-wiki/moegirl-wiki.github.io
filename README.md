@@ -1,2 +1,2 @@
-# moegirl-wiki.github.io
-主站
+# Mainpage
+Wait for import……
